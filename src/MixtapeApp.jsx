@@ -46,4 +46,28 @@ const songs = [
     name: "What's Up",
     year: 1993,
   },
+  {
+    artist: "Gilberto Santa Rosa",
+    genre: "salsa",
+    name: "Vivir sin ella",
+    year: 1995,
+  },
+  {
+    artist: "Gilberto Santa Rosa",
+    genre: "salsa",
+    name: "Conciencia",
+    year: 1993,
+  },
+  {
+    artist: "Gilberto Santa Rosa",
+    genre: "salsa",
+    name: "Perdóname",
+    year: 1994,
+  },
+  {
+    artist: "Joaquín Sabina",
+    genre: "balada",
+    name: "Y nos dieron las diez",
+    year: 1992,
+  },
 ];
